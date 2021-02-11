@@ -1,0 +1,75 @@
+Speaker Name: A
+Title: x
+Organization: y
+Address: z
+City: f
+Email: t1
+Date: 12/24/2020
+Semester: Fall
+
+
+Faculty Member in charge: g
+Course: h
+Section: i
+Gift: Compact Umbrella with PS Logo
+
+Speaker Name: a
+Title: x
+Organization: y
+Address: z
+City: f
+Email: t2
+Date: 12/12/2020
+Semester: Fall
+
+
+Faculty Member in charge: g
+Course: h
+Section: i
+Gift: Coffee
+
+Speaker Name: C
+Title: x
+Organization: y
+Address: z
+City: f
+Email: t3
+Date: 12/12/2020
+Semester: Fall
+
+
+Faculty Member in charge: g
+Course: h
+Section: i
+Gift: G
+
+Speaker Name: D
+Title: x
+Organization: y
+Address: z
+City: f
+Email: t4
+Date: 12/12/2020
+Semester: Fall
+
+
+Faculty Member in charge: g
+Course: h
+Section: i
+Gift: G
+
+Speaker Name: E
+Title: x
+Organization: y
+Address: z
+City: f
+Email: t5
+Date: 12/12/2020
+Semester: Fall
+
+
+Faculty Member in charge: g
+Course: h
+Section: i
+Gift: G
+
