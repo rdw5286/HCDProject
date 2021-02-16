@@ -6,4 +6,4 @@ By visiting this page, you agree to only share the information and files located
   2. Code Reference Material
   3. Employment Material
   
-All documents and files are under the authority of Ryan Ward, and are subject to change if need be. Special requests for sharing this repository and information with others must be authorized by Ryan Ward.
+All documents and files are under the authority of Ryan Ward and Penn State University, and are subject to change if need be. Special requests for sharing this repository and information with others must be authorized by Ryan Ward or Penn State University.
